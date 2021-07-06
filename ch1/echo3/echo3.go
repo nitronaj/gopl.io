@@ -19,5 +19,4 @@ func main()  {
 	t := time.Now()
 	elapsed := t.Sub(start)
 	fmt.Println(elapsed)
-
 }

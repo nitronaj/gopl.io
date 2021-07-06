@@ -5,6 +5,6 @@ import (
 )
 
 func BenchmarkJoinArgs(b *testing.B) {
-	args := [2]string{"Hi","Nader"}
+	args := [10]string{"Hi","Nader","How", "are", "you", "I", "am", "awesome", "bye", "bye"}
     JoinArgs(args[:])
 }
