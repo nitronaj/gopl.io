@@ -1,0 +1,8 @@
+Get "http://bad.google.com": dial tcp: lookup bad.google.com: no such host
+0.25s    5515 https://www.hktdc.com/
+0.52s    9951 http://golang.org
+0.74s  101472 https://qq.com
+0.78s   64489 https://golang.org/pkg/io
+1.17s    4154 http://gopl.io
+2.61s  140029 https://tmall.com
+2.61s elapsed
