@@ -1,4 +1,7 @@
 {
   "editor.defaultFormatter": "golang.go",
-  "cSpell.words": ["resp"]
+  "cSpell.words": ["resp"],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
